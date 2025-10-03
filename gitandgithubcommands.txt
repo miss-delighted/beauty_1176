@@ -1,0 +1,37 @@
+Git >> Version control
+
+   v1
+   v2
+   v3
+   new v4 
+
+Benefitts of Git:-
+>> It is distributed(on Cloud)
+>> collaboration
+>> Tracking changes
+>> Recovery
+>>
+
+
+https://git-scm.com/downloads
+
+github
+BitBucket
+GitLabs
+GitPod
+
+>> For 1st time need to configure github in your system
+git config --global user.name "miss-delighted"
+git config --global user.email "beautysantra2006@gmail.com"
+
+git config --global color.ui auto  (optional)
+
+Mandatory Commands:
+>> git init 
+>> git remote add origin https://github.com/miss-delighted/beauty_1176.gi
+
+git status
+git add .
+git status
+git commit -m "Commit Message"
+git push   
